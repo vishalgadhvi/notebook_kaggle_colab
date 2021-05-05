@@ -18,6 +18,9 @@ how to use a kaggle & google colab notebook with GPU.
 ![picture](images/gpu.png)
 
 
+
+
+
 ## Google Colab
 
 >step 1: go to [google colab](https://colab.research.google.com/)
